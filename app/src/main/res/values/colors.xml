@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="backgroundColor">#90a4ae</color>
+    <color name="clockBoundaryColor">#000000</color>
+    <color name="tickerColor">#263238</color>
+    <color name="triangleColor">#FFFFFF</color>
+    <color name="lowerHalfColor">#84ffff</color>
+    <color name="upperHalfColor">#ccff90</color>
+    <color name="innerRingColor">#000000</color>
+    <color name="outerRingColor">#212121</color>
+    <color name="handColor">#212121</color>
+</resources>
